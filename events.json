@@ -1,0 +1,99 @@
+
+[
+    {
+        "title": "Téléthon",
+        "start": "2024-12-06 00:00",
+        "end": "2024-12-07 23:59",
+        "location": "Bioley-Orjulaz"
+    },
+    {
+        "title": "Souper du 1er janvier",
+        "start": "2025-01-01 19:00",
+        "end": "2025-01-02 08:00",
+        "location": "Salle polyvalente"
+    },
+    {
+        "title": "Mascarade",
+        "start": "2025-01-02 08:00",
+        "end": "2025-01-02 19:00",
+        "location": "Yvonand"
+    },
+    {
+        "title": "Camp de ski FVJC",
+        "start": "2025-01-31 00:00",
+        "end": "2025-02-02 23:59",
+        "location": "Bullet"
+    },
+    {
+        "title": "Assemblée de jeunesse",
+        "start": "2025-03-07 19:00",
+        "end": "2025-03-07 21:00",
+        "location": "Yvonand"
+    },
+    {
+        "title": "Course aux œufs",
+        "start": "2025-04-25 00:00",
+        "end": "2025-04-27 23:59",
+        "location": "Yvonand"
+    },
+    {
+        "title": "Rallye FVJC",
+        "start": "2025-06-04 00:00",
+        "end": "2025-06-08 23:59",
+        "location": "Vullirouge"
+    },
+    {
+        "title": "Assemblée de jeunesse",
+        "start": "2025-06-19 19:00",
+        "end": "2025-06-19 21:00",
+        "location": "Yvonand"
+    },
+    {
+        "title": "Giron du Nord",
+        "start": "2025-07-02 00:00",
+        "end": "2025-07-06 23:59",
+        "location": "Concise"
+    },
+    {
+        "title": "Yvonand Beach",
+        "start": "2025-07-12 14:00",
+        "end": "2025-07-12 18:00",
+        "location": "Port d'Yvonand"
+    },
+    {
+        "title": "Giron de la Broye",
+        "start": "2025-07-16 00:00",
+        "end": "2025-07-20 23:59",
+        "location": "Combremont-le-Moyen"
+    },
+    {
+        "title": "Giron du Centre",
+        "start": "2025-07-30 00:00",
+        "end": "2025-08-03 23:59",
+        "location": "Froideville"
+    },
+    {
+        "title": "Giron du Pied",
+        "start": "2025-08-13 00:00",
+        "end": "2025-08-17 23:59",
+        "location": "St-Prex"
+    },
+    {
+        "title": "Assemblée de jeunesse",
+        "start": "2025-09-05 19:00",
+        "end": "2025-09-05 21:00",
+        "location": "Yvonand"
+    },
+    {
+        "title": "Bal",
+        "start": "2025-10-11 20:00",
+        "end": "2025-10-12 12:00",
+        "location": "Salle polyvalente"
+    },
+    {
+        "title": "Assemblée générale",
+        "start": "2025-10-25 14:00",
+        "end": "2025-10-25 19:00",
+        "location": "Yvonand"
+    }
+]
