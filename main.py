@@ -28,5 +28,5 @@ for event_data in events_data:
     cal.events.add(event)
 
 # Save to an .ics file
-with open("Calendrier_2024_2025.ics", "w") as f:
+with open("events.ics", "w") as f:
     f.writelines(cal)
